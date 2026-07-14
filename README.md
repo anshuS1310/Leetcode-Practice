@@ -7,6 +7,7 @@ Problems on leetcode solved by me
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,4 +16,12 @@ Problems on leetcode solved by me
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
