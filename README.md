@@ -8,6 +8,7 @@ Problems on leetcode solved by me
 | ------- |
 | [0001-two-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,4 +25,8 @@ Problems on leetcode solved by me
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
