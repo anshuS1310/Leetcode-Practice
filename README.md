@@ -20,6 +20,7 @@ Problems on leetcode solved by me
 | ------- |
 | [0009-palindrome-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0069-sqrtx) |
 ## String
 |  |
 | ------- |
@@ -37,4 +38,5 @@ Problems on leetcode solved by me
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
