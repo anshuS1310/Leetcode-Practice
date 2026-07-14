@@ -10,6 +10,7 @@ Problems on leetcode solved by me
 | [0014-longest-common-prefix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@ Problems on leetcode solved by me
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
