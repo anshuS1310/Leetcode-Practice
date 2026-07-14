@@ -22,6 +22,7 @@ Problems on leetcode solved by me
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
+| [0058-length-of-last-word](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0058-length-of-last-word) |
 ## Trie
 |  |
 | ------- |
