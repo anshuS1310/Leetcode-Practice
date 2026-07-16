@@ -26,6 +26,7 @@ Problems on leetcode solved by me
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0058-length-of-last-word) |
 ## Trie
@@ -47,4 +48,8 @@ Problems on leetcode solved by me
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
