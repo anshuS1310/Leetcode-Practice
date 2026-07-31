@@ -24,6 +24,7 @@ Problems on leetcode solved by me
 | [0069-sqrtx](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1137-n-th-tribonacci-number) |
+| [1492-the-kth-factor-of-n](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1492-the-kth-factor-of-n) |
 ## String
 |  |
 | ------- |
@@ -64,4 +65,8 @@ Problems on leetcode solved by me
 | ------- |
 | [0070-climbing-stairs](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1137-n-th-tribonacci-number) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
