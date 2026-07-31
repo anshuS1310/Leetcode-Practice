@@ -11,6 +11,7 @@ Problems on leetcode solved by me
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ Problems on leetcode solved by me
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0070-climbing-stairs) |
@@ -69,4 +71,8 @@ Problems on leetcode solved by me
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1492-the-kth-factor-of-n) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
