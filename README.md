@@ -41,6 +41,7 @@ Problems on leetcode solved by me
 | [0020-valid-parentheses](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0058-length-of-last-word) |
+| [0392-is-subsequence](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0392-is-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -51,6 +52,7 @@ Problems on leetcode solved by me
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0392-is-subsequence](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +73,7 @@ Problems on leetcode solved by me
 | [0070-climbing-stairs](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [0877-stone-game](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
