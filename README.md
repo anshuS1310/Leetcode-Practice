@@ -11,6 +11,7 @@ Problems on leetcode solved by me
 | [0014-longest-common-prefix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0066-plus-one) |
@@ -60,6 +61,7 @@ Problems on leetcode solved by me
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0031-next-permutation) |
 | [0392-is-subsequence](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
