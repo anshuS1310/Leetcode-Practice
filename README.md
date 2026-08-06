@@ -15,6 +15,7 @@ Problems on leetcode solved by me
 | [0035-search-insert-position](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -106,6 +107,7 @@ Problems on leetcode solved by me
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 ## Game Theory
 |  |
 | ------- |
@@ -148,4 +150,5 @@ Problems on leetcode solved by me
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
