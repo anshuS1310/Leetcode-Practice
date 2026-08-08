@@ -23,6 +23,7 @@ Problems on leetcode solved by me
 | [0169-majority-element](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0766-toeplitz-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0766-toeplitz-matrix) |
+| [0867-transpose-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0877-stone-game) |
 ## Hash Table
 |  |
@@ -110,6 +111,7 @@ Problems on leetcode solved by me
 | [0048-rotate-image](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0766-toeplitz-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0766-toeplitz-matrix) |
+| [0867-transpose-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0867-transpose-matrix) |
 ## Game Theory
 |  |
 | ------- |
@@ -153,4 +155,5 @@ Problems on leetcode solved by me
 | ------- |
 | [0043-multiply-strings](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0054-spiral-matrix) |
+| [0867-transpose-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
