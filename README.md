@@ -17,6 +17,7 @@ Problems on leetcode solved by me
 | [0053-maximum-subarray](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
@@ -31,6 +32,7 @@ Problems on leetcode solved by me
 | ------- |
 | [0001-two-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0073-set-matrix-zeroes](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -112,6 +114,7 @@ Problems on leetcode solved by me
 | ------- |
 | [0048-rotate-image](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0766-toeplitz-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0867-transpose-matrix) |
 ## Game Theory
