@@ -61,6 +61,7 @@ Problems on leetcode solved by me
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -75,6 +76,7 @@ Problems on leetcode solved by me
 | [0027-remove-element](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
