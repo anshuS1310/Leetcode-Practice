@@ -17,6 +17,7 @@ Problems on leetcode solved by me
 | [0053-maximum-subarray](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -62,6 +63,7 @@ Problems on leetcode solved by me
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0392-is-subsequence) |
@@ -169,6 +171,7 @@ Problems on leetcode solved by me
 | ------- |
 | [0043-multiply-strings](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0054-spiral-matrix) |
+| [0068-text-justification](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0068-text-justification) |
 | [0867-transpose-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0867-transpose-matrix) |
 ## Monotonic Queue
 |  |
