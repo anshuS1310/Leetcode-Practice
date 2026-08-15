@@ -21,6 +21,7 @@ Problems on leetcode solved by me
 | [0073-set-matrix-zeroes](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0118-pascals-triangle](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
@@ -111,6 +112,7 @@ Problems on leetcode solved by me
 | [0053-maximum-subarray](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
