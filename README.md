@@ -24,6 +24,7 @@ Problems on leetcode solved by me
 | [0119-pascals-triangle-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
@@ -212,4 +213,8 @@ Problems on leetcode solved by me
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
