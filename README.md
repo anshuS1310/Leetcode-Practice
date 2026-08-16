@@ -13,6 +13,7 @@ Problems on leetcode solved by me
 | [0027-remove-element](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0054-spiral-matrix) |
@@ -95,6 +96,7 @@ Problems on leetcode solved by me
 | [0027-remove-element](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0392-is-subsequence) |
 ## Binary Search
@@ -112,10 +114,12 @@ Problems on leetcode solved by me
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0118-pascals-triangle) |
@@ -214,6 +218,7 @@ Problems on leetcode solved by me
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 ## Range Minimum/Maximum Query
 |  |
