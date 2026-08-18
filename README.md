@@ -21,6 +21,7 @@ Problems on leetcode solved by me
 | [0068-text-justification](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -97,6 +98,7 @@ Problems on leetcode solved by me
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0392-is-subsequence) |
 ## Binary Search
@@ -184,6 +186,7 @@ Problems on leetcode solved by me
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0229-majority-element-ii) |
