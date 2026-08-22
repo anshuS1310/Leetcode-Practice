@@ -1,9 +1,9 @@
 class Solution:
     def maximumSubarraySum(self, nums: List[int], k: int) -> int:
         ans = 0
-        seen = set()  # Fast O(1) duplicate tracking
-        l = 0  # Left pointer for sliding window
-        cur_sum = 0  # Running sum tracking
+        seen = set()
+        l = 0  
+        cur_sum = 0
 
         for i in range(len(nums)):
             while nums[i] in seen:
