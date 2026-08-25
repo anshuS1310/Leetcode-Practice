@@ -73,6 +73,7 @@ Problems on leetcode solved by me
 | [0877-stone-game](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1137-n-th-tribonacci-number) |
 | [1492-the-kth-factor-of-n](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1492-the-kth-factor-of-n) |
+| [1952-three-divisors](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1952-three-divisors) |
 ## String
 |  |
 | ------- |
@@ -149,6 +150,7 @@ Problems on leetcode solved by me
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1492-the-kth-factor-of-n) |
+| [1952-three-divisors](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1952-three-divisors) |
 ## Matrix
 |  |
 | ------- |
@@ -241,4 +243,16 @@ Problems on leetcode solved by me
 |  |
 | ------- |
 | [0136-single-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0136-single-number) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
