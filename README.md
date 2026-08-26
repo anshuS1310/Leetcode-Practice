@@ -29,6 +29,7 @@ Problems on leetcode solved by me
 | [0136-single-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0704-binary-search](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0704-binary-search) |
@@ -115,6 +116,7 @@ Problems on leetcode solved by me
 | [0004-median-of-two-sorted-arrays](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0069-sqrtx) |
+| [0209-minimum-size-subarray-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0704-binary-search) |
 ## String Matching
 |  |
@@ -167,6 +169,7 @@ Problems on leetcode solved by me
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -255,4 +258,8 @@ Problems on leetcode solved by me
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1952-three-divisors) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
