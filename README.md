@@ -41,6 +41,7 @@ Problems on leetcode solved by me
 | [1920-build-array-from-permutation](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1920-build-array-from-permutation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2718-sum-of-matrix-after-queries](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2718-sum-of-matrix-after-queries) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -59,6 +60,7 @@ Problems on leetcode solved by me
 | [2718-sum-of-matrix-after-queries](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2718-sum-of-matrix-after-queries) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3146-permutation-difference-between-two-strings) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 ## Math
 |  |
 | ------- |
