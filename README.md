@@ -40,6 +40,7 @@ Problems on leetcode solved by me
 | [0918-maximum-sum-circular-subarray](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1920-build-array-from-permutation) |
+| [2032-two-out-of-three](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2032-two-out-of-three) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2718-sum-of-matrix-after-queries](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2718-sum-of-matrix-after-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -57,6 +58,7 @@ Problems on leetcode solved by me
 | [0409-longest-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0409-longest-palindrome) |
 | [0904-fruit-into-baskets](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2032-two-out-of-three](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2032-two-out-of-three) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2718-sum-of-matrix-after-queries](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2718-sum-of-matrix-after-queries) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -253,6 +255,7 @@ Problems on leetcode solved by me
 |  |
 | ------- |
 | [0136-single-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0136-single-number) |
+| [2032-two-out-of-three](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2032-two-out-of-three) |
 ## Enumeration
 |  |
 | ------- |
