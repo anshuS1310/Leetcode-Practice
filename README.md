@@ -33,6 +33,7 @@ Problems on leetcode solved by me
 | [0209-minimum-size-subarray-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0229-majority-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0867-transpose-matrix) |
@@ -79,6 +80,7 @@ Problems on leetcode solved by me
 | [0069-sqrtx](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0326-power-of-three) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1137-n-th-tribonacci-number) |
 | [1492-the-kth-factor-of-n](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1492-the-kth-factor-of-n) |
@@ -220,6 +222,7 @@ Problems on leetcode solved by me
 | [0169-majority-element](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0229-majority-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [3745-maximize-expression-of-three-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3745-maximize-expression-of-three-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
