@@ -2,7 +2,7 @@ class Solution {
     public int maximumProduct(int[] nums) {
         
         int mx1=Integer.MIN_VALUE,mx2=Integer.MIN_VALUE,mx3=Integer.MIN_VALUE;
-        int mn1=Integer.MAX_VALUE,mn2=Integer.MAX_VALUE;
+        int mn1=0,mn2=0;
         for(int i=0;i<nums.length;i++){
             if(nums[i]>=0 && nums[i]>mx1){
                 mx3=mx2;
@@ -38,10 +38,8 @@ class Solution {
             return (nums[0]*nums[1]*nums[2]);
         }else if(mx1==Integer.MIN_VALUE){
             return min1*min2*min3;
-        }else if(mn2!=Integer.MAX_VALUE){
-            return mx1*mx2*mx3> mx1*mn1*mn2 ? mx1*mx2*mx3 : mx1*mn1*mn2;
         }else{
-            return mx1*mx2*mx3;
+            return mx1*mx2*mx3> mx1*mn1*mn2 ? mx1*mx2*mx3 : mx1*mn1*mn2;
         }
     }
 }
