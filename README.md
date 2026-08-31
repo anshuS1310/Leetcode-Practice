@@ -60,6 +60,7 @@ Problems on leetcode solved by me
 | [0409-longest-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0409-longest-palindrome) |
 | [0904-fruit-into-baskets](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2032-two-out-of-three](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2032-two-out-of-three) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2718-sum-of-matrix-after-queries](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2718-sum-of-matrix-after-queries) |
@@ -101,6 +102,7 @@ Problems on leetcode solved by me
 | [0392-is-subsequence](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0409-longest-palindrome) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2937-make-three-strings-equal](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2937-make-three-strings-equal) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3146-permutation-difference-between-two-strings) |
@@ -181,6 +183,7 @@ Problems on leetcode solved by me
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Divide and Conquer
@@ -209,6 +212,7 @@ Problems on leetcode solved by me
 | [0169-majority-element](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
