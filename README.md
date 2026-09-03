@@ -88,6 +88,7 @@ Problems on leetcode solved by me
 | [1492-the-kth-factor-of-n](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1492-the-kth-factor-of-n) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1952-three-divisors](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1952-three-divisors) |
+| [2396-strictly-palindromic-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2396-strictly-palindromic-number) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
@@ -126,6 +127,7 @@ Problems on leetcode solved by me
 | [0088-merge-sorted-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0392-is-subsequence) |
+| [2396-strictly-palindromic-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -289,4 +291,8 @@ Problems on leetcode solved by me
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
