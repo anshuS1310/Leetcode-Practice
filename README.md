@@ -61,6 +61,7 @@ Problems on leetcode solved by me
 | [0387-first-unique-character-in-a-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0409-longest-palindrome) |
 | [0904-fruit-into-baskets](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
+| [1796-second-largest-digit-in-a-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2032-two-out-of-three](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2032-two-out-of-three) |
@@ -107,6 +108,7 @@ Problems on leetcode solved by me
 | [0387-first-unique-character-in-a-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0409-longest-palindrome) |
+| [1796-second-largest-digit-in-a-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2937-make-three-strings-equal](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2937-make-three-strings-equal) |
