@@ -42,6 +42,7 @@ Problems on leetcode solved by me
 | [0918-maximum-sum-circular-subarray](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1929-concatenation-of-array) |
 | [2032-two-out-of-three](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2032-two-out-of-three) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2718-sum-of-matrix-after-queries](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2718-sum-of-matrix-after-queries) |
@@ -245,6 +246,7 @@ Problems on leetcode solved by me
 | [0867-transpose-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0867-transpose-matrix) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1920-build-array-from-permutation](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1920-build-array-from-permutation) |
+| [1929-concatenation-of-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1929-concatenation-of-array) |
 ## Monotonic Queue
 |  |
 | ------- |
