@@ -33,6 +33,7 @@ Problems on leetcode solved by me
 | [0209-minimum-size-subarray-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0229-majority-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0766-toeplitz-matrix) |
@@ -139,6 +140,7 @@ Problems on leetcode solved by me
 | [0069-sqrtx](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0704-binary-search) |
 ## String Matching
 |  |
