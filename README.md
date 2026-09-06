@@ -45,6 +45,7 @@ Problems on leetcode solved by me
 | [0904-fruit-into-baskets](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1901-find-a-peak-element-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1929-concatenation-of-array) |
 | [2032-two-out-of-three](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2032-two-out-of-three) |
@@ -149,6 +150,7 @@ Problems on leetcode solved by me
 | [0540-single-element-in-a-sorted-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0704-binary-search) |
+| [1901-find-a-peak-element-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1901-find-a-peak-element-ii) |
 ## String Matching
 |  |
 | ------- |
@@ -192,6 +194,7 @@ Problems on leetcode solved by me
 | [0073-set-matrix-zeroes](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
 | [0766-toeplitz-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0867-transpose-matrix) |
+| [1901-find-a-peak-element-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1901-find-a-peak-element-ii) |
 ## Game Theory
 |  |
 | ------- |
