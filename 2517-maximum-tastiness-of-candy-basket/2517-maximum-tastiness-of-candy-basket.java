@@ -8,7 +8,7 @@ class Solution {
                 j++;
                 l=arr[i];
             }
-            if(j>=k){
+            if(j==k){
                 return true;
             }
         }
