@@ -1,28 +1,18 @@
 class Solution {
     public double myPow(double x, int n) {
-        if (n==0 || x==1){
-            return 1;
+        long N = n;
+        if (N < 0) {
+            x = 1 / x;
+            N = -N;
         }
-        if(n<=Integer.MIN_VALUE){
-            if(x<0){
-                return 1;
+        double mul = 1.0;
+        while (N > 0) {
+            if (N % 2 == 1) {
+                mul *= x;
             }
-            return 0;
+            x *= x;
+            N /= 2;
         }
-        if(n>=Integer.MAX_VALUE){
-            if(x<0){
-                return -1;
-            }
-            return 0;
-        }
-        if(n<0){
-            x=1/(x);
-        }
-        double res=x;
-        for(int i=1;i<Math.abs(n);i++){
-            res*=x;
-        }
-        return res;
-        
+        return mul;
     }
 }
