@@ -87,6 +87,7 @@ Problems on leetcode solved by me
 | [0013-roman-to-integer](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0070-climbing-stairs) |
@@ -284,6 +285,7 @@ Problems on leetcode solved by me
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0326-power-of-three) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Monotonic Stack
