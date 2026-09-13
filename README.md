@@ -97,6 +97,7 @@ Problems on leetcode solved by me
 | [0326-power-of-three](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0793-preimage-size-of-factorial-zeroes-function](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0877-stone-game](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1137-n-th-tribonacci-number) |
 | [1492-the-kth-factor-of-n](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1492-the-kth-factor-of-n) |
@@ -160,6 +161,7 @@ Problems on leetcode solved by me
 | [0540-single-element-in-a-sorted-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0704-binary-search) |
+| [0793-preimage-size-of-factorial-zeroes-function](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [1539-kth-missing-positive-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1901-find-a-peak-element-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1901-find-a-peak-element-ii) |
