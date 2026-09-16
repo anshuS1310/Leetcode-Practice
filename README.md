@@ -36,6 +36,7 @@ Problems on leetcode solved by me
 | [0209-minimum-size-subarray-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0229-majority-element-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -163,6 +164,7 @@ Problems on leetcode solved by me
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
@@ -217,6 +219,7 @@ Problems on leetcode solved by me
 | [0048-rotate-image](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0766-toeplitz-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0867-transpose-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1901-find-a-peak-element-ii) |
@@ -271,6 +274,7 @@ Problems on leetcode solved by me
 | [0169-majority-element](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0229-majority-element-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
@@ -300,6 +304,7 @@ Problems on leetcode solved by me
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
 |  |
