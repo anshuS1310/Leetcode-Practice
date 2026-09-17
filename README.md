@@ -103,6 +103,7 @@ Problems on leetcode solved by me
 | [0326-power-of-three](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0836-rectangle-overlap](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0877-stone-game) |
@@ -169,6 +170,7 @@ Problems on leetcode solved by me
 | [0410-split-array-largest-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
+| [0668-kth-smallest-number-in-multiplication-table](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0704-binary-search](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0704-binary-search) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0875-koko-eating-bananas](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0875-koko-eating-bananas) |
