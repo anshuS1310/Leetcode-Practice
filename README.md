@@ -67,6 +67,7 @@ Problems on leetcode solved by me
 | [2594-minimum-time-to-repair-cars](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2594-minimum-time-to-repair-cars) |
 | [2718-sum-of-matrix-after-queries](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2718-sum-of-matrix-after-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3745-maximize-expression-of-three-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3745-maximize-expression-of-three-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -121,6 +122,7 @@ Problems on leetcode solved by me
 | [1823-find-the-winner-of-the-circular-game](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1952-three-divisors](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1952-three-divisors) |
 | [2396-strictly-palindromic-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2396-strictly-palindromic-number) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
