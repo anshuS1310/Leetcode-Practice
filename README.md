@@ -53,6 +53,7 @@ Problems on leetcode solved by me
 | [0912-sort-an-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1200-minimum-absolute-difference](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1552-magnetic-force-between-two-balls) |
@@ -305,6 +306,7 @@ Problems on leetcode solved by me
 | [0628-maximum-product-of-three-numbers](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0912-sort-an-array) |
+| [1200-minimum-absolute-difference](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1552-magnetic-force-between-two-balls](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2448-minimum-cost-to-make-array-equal) |
