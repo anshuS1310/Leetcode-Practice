@@ -1,0 +1,19 @@
+class Solution {
+    public int[][] insert(int[][] intervals, int[] newInterval) {
+       int i=0;
+       ArrayList<int[]> res=new ArrayList<>();
+       while(i<intervals.length && intervals[i][1] < newInterval[0]){
+        res.add(intervals[i++]);
+       }
+       while(i<intervals.length && intervals[i][0]<=newInterval[1]){
+        newInterval[0]=Math.min(intervals[i][0],newInterval[0]);
+        newInterval[1]=Math.max(intervals[i][1],newInterval[1]);
+        i++;
+       }
+       res.add(newInterval);
+       while(i<intervals.length){
+        res.add(intervals[i++]);
+       }
+       return res.toArray(new int[0][]);
+    }
+}
