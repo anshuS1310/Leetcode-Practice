@@ -24,6 +24,7 @@ Problems on leetcode solved by me
 | [0066-plus-one](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
@@ -176,6 +177,7 @@ Problems on leetcode solved by me
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0392-is-subsequence) |
@@ -313,6 +315,7 @@ Problems on leetcode solved by me
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0179-largest-number) |
@@ -437,8 +440,13 @@ Problems on leetcode solved by me
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0075-sort-colors) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
