@@ -41,6 +41,7 @@ Problems on leetcode solved by me
 | [0215-kth-largest-element-in-an-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0229-majority-element-ii) |
+| [0283-move-zeroes](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0324-wiggle-sort-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0396-rotate-function](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0396-rotate-function) |
@@ -180,6 +181,7 @@ Problems on leetcode solved by me
 | [0075-sort-colors](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0125-valid-palindrome) |
+| [0283-move-zeroes](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [2396-strictly-palindromic-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2396-strictly-palindromic-number) |
