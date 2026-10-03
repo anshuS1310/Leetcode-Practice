@@ -74,6 +74,7 @@ Problems on leetcode solved by me
 | [2448-minimum-cost-to-make-array-equal](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2540-minimum-common-value](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2553-separate-the-digits-in-an-array) |
 | [2594-minimum-time-to-repair-cars](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2594-minimum-time-to-repair-cars) |
 | [2718-sum-of-matrix-after-queries](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2718-sum-of-matrix-after-queries) |
@@ -102,6 +103,7 @@ Problems on leetcode solved by me
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2032-two-out-of-three](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2032-two-out-of-three) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2540-minimum-common-value](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2540-minimum-common-value) |
 | [2718-sum-of-matrix-after-queries](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2718-sum-of-matrix-after-queries) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3146-permutation-difference-between-two-strings) |
@@ -188,6 +190,7 @@ Problems on leetcode solved by me
 | [0392-is-subsequence](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [2396-strictly-palindromic-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2396-strictly-palindromic-number) |
+| [2540-minimum-common-value](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2540-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -215,6 +218,7 @@ Problems on leetcode solved by me
 | [1901-find-a-peak-element-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1901-find-a-peak-element-ii) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [2540-minimum-common-value](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2540-minimum-common-value) |
 | [2594-minimum-time-to-repair-cars](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2594-minimum-time-to-repair-cars) |
 ## String Matching
 |  |
