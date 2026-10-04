@@ -106,6 +106,7 @@ Problems on leetcode solved by me
 | [2540-minimum-common-value](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2540-minimum-common-value) |
 | [2718-sum-of-matrix-after-queries](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2718-sum-of-matrix-after-queries) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3146-permutation-difference-between-two-strings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -168,6 +169,7 @@ Problems on leetcode solved by me
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2937-make-three-strings-equal](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2937-make-three-strings-equal) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3146-permutation-difference-between-two-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
