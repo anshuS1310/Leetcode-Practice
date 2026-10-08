@@ -168,6 +168,7 @@ Problems on leetcode solved by me
 | [0392-is-subsequence](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0409-longest-palindrome) |
 | [0796-rotate-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1108-defanging-an-ip-address) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -240,6 +241,7 @@ Problems on leetcode solved by me
 | [0020-valid-parentheses](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
+| [1021-remove-outermost-parentheses](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
@@ -466,6 +468,7 @@ Problems on leetcode solved by me
 ## Bracket Sequences
 |  |
 | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bubble Sort
 |  |
