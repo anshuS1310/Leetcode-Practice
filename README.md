@@ -131,6 +131,7 @@ Problems on leetcode solved by me
 | [0070-climbing-stairs](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0396-rotate-function) |
 | [0507-perfect-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0628-maximum-product-of-three-numbers) |
@@ -399,6 +400,7 @@ Problems on leetcode solved by me
 | [0050-powx-n](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0342-power-of-four) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Monotonic Stack
 |  |
@@ -414,6 +416,7 @@ Problems on leetcode solved by me
 | ------- |
 | [0136-single-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0342-power-of-four) |
 | [2032-two-out-of-three](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2032-two-out-of-three) |
 ## Enumeration
 |  |
