@@ -8,25 +8,21 @@ class Solution {
         }
         return c;
     }
-    public int[] sortByBits(int[] arr) {
-        List<List<Integer>> ck=new ArrayList<>();
-        for(int i=0;i<32;i++){
-            ck.add(new ArrayList<>());
+    public int[] sortByBits(int[] nums) {
+        Integer[] arr = new Integer[nums.length];
+        for (int i = 0; i < nums.length; i++) {
+            arr[i] = nums[i];
         }
-        for(int i:arr){
-            ck.get(ct(i)).add(i);
+        Arrays.sort(arr);
+        Arrays.sort(arr, (a, b) -> {
+            int c1 = ct(a);
+            int c2 = ct(b);
+            return c1 - c2; 
+        });
+        for (int i = 0; i < nums.length; i++) {
+            nums[i] = arr[i];
         }
-        for(int i:arr){
-            Collections.sort(ck.get(ct(i)));
-        }
-        int [] res=new int[arr.length];
-        int id=0;
-        for(int i=0;i<32;i++){
-            List<Integer> t=ck.get(i);
-            for(int j:t){
-                res[id++]=j;
-            }
-        }
-        return res;
+
+        return nums;
     }
 }
