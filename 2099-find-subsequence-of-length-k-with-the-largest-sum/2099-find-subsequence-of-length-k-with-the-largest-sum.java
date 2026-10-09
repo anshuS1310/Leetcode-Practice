@@ -1,25 +1,17 @@
 class Solution {
     public int[] maxSubsequence(int[] nums, int k) {
-        // 1. Find top k elements by sorting a clone
-        int[] sorted = nums.clone();
-        Arrays.sort(sorted);
-
-        // 2. Build frequency map for only the top k largest values
-        Map<Integer, Integer> counts = new HashMap<>();
-        for (int i = sorted.length - k; i < sorted.length; i++) {
-            counts.put(sorted[i], counts.getOrDefault(sorted[i], 0) + 1);
+        int n=nums.length;
+        int pr[][]=new int[n][2];
+        for(int i=0;i<n;i++){
+            pr[i][0]=nums[i];
+            pr[i][1]=i;
         }
-
-        // 3. Collect elements in original array order
-        int[] res = new int[k];
-        int idx = 0;
-        for (int num : nums) {
-            if (counts.getOrDefault(num, 0) > 0) {
-                res[idx++] = num;
-                counts.put(num, counts.get(num) - 1); // Decrement count
-            }
+        Arrays.sort(pr,(a,b)->Integer.compare(b[0],a[0]));
+        Arrays.sort(pr,0,k,(a,b)->Integer.compare(a[1],b[1]));
+        int res[] = new int[k];
+        for(int i=0;i<k;i++){
+            res[i]=pr[i][0];
         }
-
         return res;
     }
 }
