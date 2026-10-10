@@ -39,6 +39,7 @@ Problems on leetcode solved by me
 | [0162-find-peak-element](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0217-contains-duplicate) |
@@ -133,6 +134,7 @@ Problems on leetcode solved by me
 | [0066-plus-one](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0342-power-of-four) |
@@ -201,6 +203,7 @@ Problems on leetcode solved by me
 | [0075-sort-colors](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0392-is-subsequence) |
