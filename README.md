@@ -90,6 +90,7 @@ Problems on leetcode solved by me
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3745-maximize-expression-of-three-elements) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
@@ -211,6 +212,7 @@ Problems on leetcode solved by me
 | [0658-find-k-closest-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [2396-strictly-palindromic-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2396-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2540-minimum-common-value) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Binary Search
 |  |
 | ------- |
@@ -240,6 +242,7 @@ Problems on leetcode solved by me
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2540-minimum-common-value](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2540-minimum-common-value) |
 | [2594-minimum-time-to-repair-cars](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2594-minimum-time-to-repair-cars) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## String Matching
 |  |
 | ------- |
@@ -439,6 +442,7 @@ Problems on leetcode solved by me
 | [0342-power-of-four](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0342-power-of-four) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2032-two-out-of-three](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2032-two-out-of-three) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Enumeration
 |  |
 | ------- |
