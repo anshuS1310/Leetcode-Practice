@@ -85,6 +85,7 @@ Problems on leetcode solved by me
 | [2594-minimum-time-to-repair-cars](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2594-minimum-time-to-repair-cars) |
 | [2718-sum-of-matrix-after-queries](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2718-sum-of-matrix-after-queries) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -153,6 +154,7 @@ Problems on leetcode solved by me
 | [1823-find-the-winner-of-the-circular-game](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1952-three-divisors](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1952-three-divisors) |
 | [2396-strictly-palindromic-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2396-strictly-palindromic-number) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
