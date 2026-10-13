@@ -136,6 +136,7 @@ Problems on leetcode solved by me
 | [0048-rotate-image](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0189-rotate-array) |
@@ -174,6 +175,7 @@ Problems on leetcode solved by me
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0068-text-justification) |
 | [0125-valid-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0179-largest-number) |
@@ -392,6 +394,7 @@ Problems on leetcode solved by me
 | ------- |
 | [0043-multiply-strings](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0068-text-justification) |
 | [0867-transpose-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0867-transpose-matrix) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -436,6 +439,7 @@ Problems on leetcode solved by me
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0190-reverse-bits) |
