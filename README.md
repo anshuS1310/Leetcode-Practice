@@ -160,6 +160,7 @@ Problems on leetcode solved by me
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -339,6 +340,7 @@ Problems on leetcode solved by me
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3745-maximize-expression-of-three-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3745-maximize-expression-of-three-elements) |
 ## Queue
 |  |
