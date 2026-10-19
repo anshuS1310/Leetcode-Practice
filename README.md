@@ -78,6 +78,7 @@ Problems on leetcode solved by me
 | [2016-maximum-difference-between-increasing-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2032-two-out-of-three](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2032-two-out-of-three) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -251,6 +252,7 @@ Problems on leetcode solved by me
 | [1539-kth-missing-positive-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1901-find-a-peak-element-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2540-minimum-common-value](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2540-minimum-common-value) |
@@ -387,6 +389,7 @@ Problems on leetcode solved by me
 | [1451-rearrange-words-in-a-sentence](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1552-magnetic-force-between-two-balls](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2448-minimum-cost-to-make-array-equal) |
