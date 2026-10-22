@@ -1,42 +1,22 @@
 class Solution {
     public int minOperations(int[] nums) {
-        int n = nums.length;
-        
-        // Find index of 0
-        int zero = 0;
-        for (int i = 0; i < n; i++) {
-            if (nums[i] == 0) {
-                zero = i;
-                break;
-            }
+        int n=nums.length;
+        int z=0;
+        while(nums[z]!=0){
+            z++;
         }
-        
-        // Helper to check relative ordering starting from 'zero'
-        boolean isIncreasing = true;
-        boolean isDecreasing = true;
-        
-        for (int i = 1; i < n; i++) {
-            int prevIdx = (zero + (i - 1)) % n;
-            int currIdx = (zero + i) % n;
-            
-            if (nums[currIdx] != (nums[prevIdx] + 1)%n) {
-                isIncreasing = false;
-            }
-            if (nums[currIdx] != (nums[prevIdx] - 1 + n) % n) {
-                isDecreasing = false;
-            }
+        boolean f=true,b=true;
+        for(int i=0;i<n && (f||b);i++){
+            int r=nums[(z+i)%n];
+            f&= r==i;
+            b&= r==((n-i)%n);
         }
-
-        int ans = Integer.MAX_VALUE;
-
-        if (isIncreasing) {
-            ans = Math.min(zero, n - zero + 2);     
+        if(f){
+            return Math.min(z,n-z+2);
         }
-
-        else if (isDecreasing) {
-            ans = Math.min(zero+2, n - zero);          // Reverse, rotate left
+        if(b){
+            return Math.min(z+2,n-z);
         }
-
-        return ans == Integer.MAX_VALUE ? -1 : ans;
+        return -1;
     }
 }
