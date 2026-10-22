@@ -98,6 +98,7 @@ Problems on leetcode solved by me
 | [3731-find-missing-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3745-maximize-expression-of-three-elements) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
+| [3843-first-element-with-unique-frequency](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3843-first-element-with-unique-frequency) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3903-smallest-stable-index-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -134,6 +135,7 @@ Problems on leetcode solved by me
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3731-find-missing-elements) |
+| [3843-first-element-with-unique-frequency](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3843-first-element-with-unique-frequency) |
 ## Math
 |  |
 | ------- |
@@ -368,6 +370,7 @@ Problems on leetcode solved by me
 | [0387-first-unique-character-in-a-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3843-first-element-with-unique-frequency](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3843-first-element-with-unique-frequency) |
 ## Sorting
 |  |
 | ------- |
