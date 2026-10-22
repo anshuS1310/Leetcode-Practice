@@ -19,7 +19,7 @@ class Solution {
             int prevIdx = (zero + (i - 1)) % n;
             int currIdx = (zero + i) % n;
             
-            if (nums[currIdx] != (nums[prevIdx] + 1) % n) {
+            if (nums[currIdx] != (nums[prevIdx] + 1)) {
                 isIncreasing = false;
             }
             if (nums[currIdx] != (nums[prevIdx] - 1 + n) % n) {
