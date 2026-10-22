@@ -100,6 +100,7 @@ Problems on leetcode solved by me
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3903-smallest-stable-index-i) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
