@@ -1,19 +1,22 @@
 class Solution {
     public int firstUniqueFreq(int[] nums) {
-        Map<Integer,Integer> m= new HashMap<>();
+        int m=Integer.MIN_VALUE;
         for(int i:nums){
-            m.put(i,m.getOrDefault(i,0)+1);
+            m=Math.max(i,m);
         }
-        Map<Integer,Integer> m1= new HashMap<>();
-        for(int i:m.values()){
-            m1.put(i,m1.getOrDefault(i,0)+1);
+        int []f = new int[m+1];
+        for(int i:nums){
+            f[i]++;
+        }
+        int []f2=new int[nums.length+1];
+        for(int i:f){
+            f2[i]++;
         }
         for(int i:nums){
-            if(m1.get(m.get(i))==1){
+            if(f2[f[i]]==1){
                 return i;
             }
         }
-        return -1;
-        
+        return -1;  
     }
 }
