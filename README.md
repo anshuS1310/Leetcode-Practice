@@ -67,6 +67,7 @@ Problems on leetcode solved by me
 | [0918-maximum-sum-circular-subarray](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1200-minimum-absolute-difference) |
+| [1254-number-of-closed-islands](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -323,6 +324,7 @@ Problems on leetcode solved by me
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0766-toeplitz-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0867-transpose-matrix) |
+| [1254-number-of-closed-islands](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1254-number-of-closed-islands) |
 | [1901-find-a-peak-element-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1901-find-a-peak-element-ii) |
 ## Game Theory
 |  |
@@ -559,4 +561,16 @@ Problems on leetcode solved by me
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1254-number-of-closed-islands) |
+## Union-Find
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
