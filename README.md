@@ -105,6 +105,7 @@ Problems on leetcode solved by me
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3843-first-element-with-unique-frequency](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3843-first-element-with-unique-frequency) |
 | [3875-construct-uniform-parity-array-i](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3903-smallest-stable-index-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
@@ -306,6 +307,7 @@ Problems on leetcode solved by me
 | [0877-stone-game](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1137-n-th-tribonacci-number) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Memoization
 |  |
 | ------- |
@@ -328,6 +330,7 @@ Problems on leetcode solved by me
 | [1254-number-of-closed-islands](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1254-number-of-closed-islands) |
 | [1901-find-a-peak-element-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1901-find-a-peak-element-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Game Theory
 |  |
 | ------- |
@@ -488,6 +491,7 @@ Problems on leetcode solved by me
 | [2032-two-out-of-three](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2032-two-out-of-three) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Enumeration
 |  |
 | ------- |
