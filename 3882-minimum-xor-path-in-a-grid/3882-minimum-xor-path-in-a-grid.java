@@ -1,34 +1,30 @@
 class Solution {
-    public int minCost(int[][] grid) {
-        int m=grid.length,n=grid[0].length;
-        boolean [][][] dp = new boolean[m][n][1024];
-        dp[m-1][n-1][grid[m-1][n-1]]=true;
-        for(int i=m-1;i>=0;i--){
-            for(int j=n-1;j>=0;j--){
-                if(i==m-1 && j==n-1){
-                    continue;
-                }
-                if(i+1<m){
-                    for(int x=0;x<1024;x++){
-                        if(dp[i+1][j][x]){
-                            dp[i][j][x^grid[i][j]]=true;
-                        }
-                    }
-                }
-                if(j+1<n){
-                    for(int x=0;x<1024;x++){
-                        if(dp[i][j+1][x]){
-                            dp[i][j][x^grid[i][j]]=true;
-                        }
-                    }
-                }
-            }
+    private int a;
+    private boolean [][][] mg;
+    public int minCost(int[][] g) {
+        a=Integer.MAX_VALUE;
+        mg=new boolean [g.length][g[0].length][1024];
+        dfs(g,0,0,0,g.length,g[0].length);
+        return a;
+    }
+    private void dfs(int [][] g, int i,int j,int x,int m,int n){
+        x^=g[i][j];
+        if(a==0){
+            return;
         }
-        for(int i=0;i<1024;i++){
-            if(dp[0][0][i]){
-                return i;
-            }
+        if(mg[i][j][x]==true){
+            return;
         }
-        return 0;
+        mg[i][j][x]=true;
+        if(i==m-1 && j==n-1){
+            a=Math.min(a,x);
+            return;
+        }
+        if(i<m-1){
+            dfs(g,i+1,j,x,m,n);
+        }
+        if(j<n-1){
+            dfs(g,i,j+1,x,m,n);
+        }
     }
 }
