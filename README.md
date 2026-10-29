@@ -100,6 +100,7 @@ Problems on leetcode solved by me
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3745-maximize-expression-of-three-elements) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
@@ -373,6 +374,7 @@ Problems on leetcode solved by me
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3745-maximize-expression-of-three-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3745-maximize-expression-of-three-elements) |
 ## Queue
 |  |
@@ -420,6 +422,7 @@ Problems on leetcode solved by me
 | [2448-minimum-cost-to-make-array-equal](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3745-maximize-expression-of-three-elements) |
 ## Boyer–Moore Majority Vote Algorithm
