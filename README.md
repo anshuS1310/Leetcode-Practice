@@ -207,6 +207,7 @@ Problems on leetcode solved by me
 | [1021-remove-outermost-parentheses](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1108-defanging-an-ip-address) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1451-rearrange-words-in-a-sentence) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -288,6 +289,7 @@ Problems on leetcode solved by me
 | [0042-trapping-rain-water](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [1021-remove-outermost-parentheses](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
@@ -368,6 +370,7 @@ Problems on leetcode solved by me
 | [0410-split-array-largest-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0455-assign-cookies) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -553,6 +556,7 @@ Problems on leetcode solved by me
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1021-remove-outermost-parentheses) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bubble Sort
 |  |
