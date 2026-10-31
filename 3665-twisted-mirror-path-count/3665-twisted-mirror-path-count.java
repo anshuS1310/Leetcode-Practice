@@ -3,8 +3,7 @@ class Solution {
     public int uniquePaths(int[][] grid) {
         int m=grid.length,n=grid[0].length;
         int dp[][][]=new int[m][n][2];
-        if(m>1) dp[1][0][1]=1;
-        if(n>1) dp[0][1][0]=1;
+        dp[0][0][0]=1;
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 for(int d=0;d<2;d++){
@@ -33,7 +32,6 @@ class Solution {
                 }
             }
         }
-        int ans= (int) ((dp[m-1][n-1][0]+dp[m-1][n-1][1])%MOD);
-        return ans;
+        return (dp[m-1][n-1][0]+dp[m-1][n-1][1]) % MOD;
     }
 }
