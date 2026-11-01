@@ -5,10 +5,9 @@ class Solution {
             if(i<min){
                 min=i;
             }
+            moves+=i;
         }
-        for(int i:nums){
-            moves+=(i-min);
-        }
+        moves-=(min*nums.length);
         return moves;
     }
 }
