@@ -67,6 +67,7 @@ Problems on leetcode solved by me
 | [0904-fruit-into-baskets](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0912-sort-an-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0918-maximum-sum-circular-subarray) |
+| [0963-minimum-area-rectangle-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0963-minimum-area-rectangle-ii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1200-minimum-absolute-difference](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1254-number-of-closed-islands](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1254-number-of-closed-islands) |
@@ -129,6 +130,7 @@ Problems on leetcode solved by me
 | [0387-first-unique-character-in-a-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0409-longest-palindrome) |
 | [0904-fruit-into-baskets](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0904-fruit-into-baskets) |
+| [0963-minimum-area-rectangle-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0963-minimum-area-rectangle-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1796-second-largest-digit-in-a-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -174,6 +176,7 @@ Problems on leetcode solved by me
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0836-rectangle-overlap](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0877-stone-game) |
+| [0963-minimum-area-rectangle-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0963-minimum-area-rectangle-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1137-n-th-tribonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1492-the-kth-factor-of-n](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1492-the-kth-factor-of-n) |
@@ -538,6 +541,7 @@ Problems on leetcode solved by me
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0836-rectangle-overlap) |
+| [0963-minimum-area-rectangle-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0963-minimum-area-rectangle-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Merge Sort
 |  |
