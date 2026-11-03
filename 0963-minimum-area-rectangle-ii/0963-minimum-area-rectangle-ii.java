@@ -1,55 +1,43 @@
-import java.util.HashSet;
-import java.util.Set;
-
 class Solution {
+    private double ca(int i,int j, int k,int[][] p){
+        int []f=p[i];
+        int []s=p[j];
+        int []t=p[k];
+        return (double) Math.abs((f[0]*(s[1]-t[1]))+(s[0]*(t[1]-f[1]))+(t[0]*(f[1]-s[1])));
+    }
     public double minAreaFreeRect(int[][] points) {
-        Set<String> pointSet = new HashSet<>();
-        for (int[] p : points) {
-            pointSet.add(p[0] + "," + p[1]);
+        double ans;
+        double mna=Double.MAX_VALUE;
+        int n=points.length;
+        Map<Integer,Set<Integer>> m= new HashMap<>();
+        for(int[] p:points){
+            if(!m.containsKey(p[0])){
+                m.put(p[0],new HashSet<>());
+            }
+            m.get(p[0]).add(p[1]);
         }
-
-        int n = points.length;
-        double minArea = Double.MAX_VALUE;
-
-        // p1 is the corner vertex (scans all N points)
-        for (int i = 0; i < n; i++) {
-            int[] p1 = points[i];
-
-            // p2 and p3 are the two arm points (scanned as combinations j < k)
-            for (int j = 0; j < n; j++) {
-                if (i == j) continue;
-                int[] p2 = points[j];
-
-                for (int k = j + 1; k < n; k++) {
-                    if (i == k) continue;
-                    int[] p3 = points[k];
-
-                    // Vector 1: p1 -> p2
-                    int uX = p2[0] - p1[0];
-                    int uY = p2[1] - p1[1];
-
-                    // Vector 2: p1 -> p3
-                    int vX = p3[0] - p1[0];
-                    int vY = p3[1] - p1[1];
-
-                    // 1. Perpendicular Check: Dot product == 0
-                    if (uX * vX + uY * vY != 0) continue;
-
-                    // 2. Expected 4th point: p4 = p2 + v
-                    String p4Key = (p2[0] + vX) + "," + (p2[1] + vY);
-
-                    // 3. Check presence of p4
-                    if (pointSet.contains(p4Key)) {
-                        double len1 = Math.sqrt(uX * uX + uY * uY);
-                        double len2 = Math.sqrt(vX * vX + vY * vY);
-                        double area = len1 * len2;
-
-                        minArea = Math.min(minArea, area);
+        for(int i=0;i<n-2;i++){
+            for(int j=i+1;j<n-1;j++){
+                int x1=points[j][0]-points[i][0];
+                int y1=points[j][1]-points[i][1];
+                for(int k=j+1;k<n;k++){
+                    int x2=points[k][0]-points[i][0];
+                    int y2=points[k][1]-points[i][1];
+                    if((x1*x2 + y1*y2)!=0){
+                        continue;
+                    }
+                    int x3=points[j][0]+x2;
+                    int y3=points[j][1]+y2;
+                    ans=ca(i,j,k,points);
+                    if(ans>=mna){
+                        continue;
+                    }
+                    if(m.get(x3)!=null && m.get(x3).contains(y3)){
+                        mna=ans;
                     }
                 }
             }
         }
-
-        return minArea == Double.MAX_VALUE ? 0.0 : minArea;
+        return mna==Double.MAX_VALUE ? 0.0 : mna;
     }
 }
