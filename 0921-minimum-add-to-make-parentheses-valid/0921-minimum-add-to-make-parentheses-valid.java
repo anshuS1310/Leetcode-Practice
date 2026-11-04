@@ -5,10 +5,10 @@ class Solution {
             if(c=='('){
                 n++;
             }else{
-                if(n>0){
-                    n--;
-                }else{
+                if(n==0){
                     ch++;
+                }else{
+                    n--;
                 }
             }
         }
