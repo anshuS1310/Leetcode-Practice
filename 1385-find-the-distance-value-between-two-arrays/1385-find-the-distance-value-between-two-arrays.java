@@ -8,6 +8,7 @@ class Solution {
             for(int j:arr2){
                 if(j>=l && j<=r){
                     ck=false;
+                    break;
                 }
             }
             if(ck){
