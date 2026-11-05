@@ -2,22 +2,13 @@ class Solution {
     public boolean isTrionic(int[] nums) {
         int n=nums.length;
         int p=0,q=n-1;
-        for(int i=0;i<n-2;i++){
-            if(nums[i]>=nums[i+1]){
-                p=i;
-                break;
-            }
+        while(nums[p]<nums[p+1] && p<n-2){
+            p++;
         }
-        if(p==0){
-            return false;
+        while(nums[q]>nums[q-1] && q>1){
+            q--;
         }
-        for(int i=n-1;i>p;i--){
-            if(nums[i]<=nums[i-1]){
-                q=i;
-                break;
-            }
-        }
-        if(p>=q || q==n-1){
+        if(p>=q || q==n-1 || p==0){
             return false;
         }
         for(int i=p;i<q;i++){
