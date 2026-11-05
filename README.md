@@ -73,6 +73,7 @@ Problems on leetcode solved by me
 | [1254-number-of-closed-islands](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1254-number-of-closed-islands) |
 | [1331-rank-transform-of-an-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1552-magnetic-force-between-two-balls) |
@@ -252,6 +253,7 @@ Problems on leetcode solved by me
 | [0392-is-subsequence](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0455-assign-cookies) |
 | [0658-find-k-closest-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2396-strictly-palindromic-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2396-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2540-minimum-common-value) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -278,6 +280,7 @@ Problems on leetcode solved by me
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0875-koko-eating-bananas](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1552-magnetic-force-between-two-balls) |
@@ -432,6 +435,7 @@ Problems on leetcode solved by me
 | [1200-minimum-absolute-difference](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1200-minimum-absolute-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1331-rank-transform-of-an-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1552-magnetic-force-between-two-balls](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
