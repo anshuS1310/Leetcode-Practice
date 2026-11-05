@@ -5,7 +5,7 @@ class Solution {
         while(nums[p]<nums[p+1] && p<n-2){
             p++;
         }
-        while(nums[q]>nums[q-1] && q>1){
+        while(nums[q]>nums[q-1] && q>p){
             q--;
         }
         if(p>=q || q==n-1 || p==0){
