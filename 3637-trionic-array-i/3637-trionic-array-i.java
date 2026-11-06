@@ -5,7 +5,7 @@ class Solution {
         while (nums[p] < nums[p + 1] && p < nums.length - 2) {
             p++;
         }
-        while (nums[q] > nums[q - 1] && q > 1) {
+        while (nums[q] > nums[q - 1] && q > p) {
             q--;
         }
         if (p == 0 || q == nums.length - 1 || p >= q) 
