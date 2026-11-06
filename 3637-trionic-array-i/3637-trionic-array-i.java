@@ -2,10 +2,10 @@ class Solution {
     public boolean isTrionic(int[] nums) {
         int p = 0;
         int q = nums.length - 1;
-        while (nums[p] < nums[p + 1] && p < nums.length - 2) {
+        while (nums[p] < nums[p + 1] && p < nums.length - 3) {
             p++;
         }
-        while (nums[q] > nums[q - 1] && q > p) {
+        while (nums[q] > nums[q - 1] && q > 2) {
             q--;
         }
         if (p == 0 || q == nums.length - 1 || p >= q) 
