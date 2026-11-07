@@ -78,6 +78,7 @@ Problems on leetcode solved by me
 | [1539-kth-missing-positive-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1882-process-tasks-using-servers](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1882-process-tasks-using-servers) |
 | [1901-find-a-peak-element-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1901-find-a-peak-element-ii) |
 | [1920-build-array-from-permutation](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1929-concatenation-of-array) |
@@ -483,6 +484,7 @@ Problems on leetcode solved by me
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0912-sort-an-array) |
+| [1882-process-tasks-using-servers](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1882-process-tasks-using-servers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 ## Quickselect
 |  |
