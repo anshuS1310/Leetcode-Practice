@@ -1,24 +1,33 @@
 class Solution {
     public int totalNumbers(int[] digits) {
-        Set<Integer> us = new HashSet<>();
-        for(int i=0;i<digits.length;i++){
-            if(digits[i]%2!=0){
+        int n=digits.length;
+        int [] f=new int[10];
+        for(int i:digits){
+            f[i]++;
+        }
+        int t=0;
+        for(int i=1;i<10;i++){
+            if(f[i]==0){
                 continue;
             }
-            for(int j=0;j<digits.length;j++){
-                if(j==i){
-                    continue;
+            f[i]--;
+            for(int j=0;j<10;j++){
+                if(f[j]==0){
+                continue;
                 }
-                for(int k=0;k<digits.length;k++){
-                    if(k==i || k==j || digits[k]==0){
+                f[j]--;
+                for(int k=0;k<=8;k+=2){
+                    if(f[k]==0){
                         continue;
                     }
-                    int a=digits[k]*100 + digits[j]*10 + digits[i];
-                    us.add(a);
+                    f[k]--;
+                    t++;
+                    f[k]++;
                 }
+                f[j]++;
             }
+            f[i]++;
         }
-
-        return us.size();
+        return t;
     }
 }
