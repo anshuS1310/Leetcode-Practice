@@ -101,6 +101,7 @@ Problems on leetcode solved by me
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -150,6 +151,7 @@ Problems on leetcode solved by me
 | [3120-count-the-number-of-special-characters-i](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3146-permutation-difference-between-two-strings](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3146-permutation-difference-between-two-strings) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3731-find-missing-elements) |
@@ -499,6 +501,7 @@ Problems on leetcode solved by me
 | [0326-power-of-three](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0342-power-of-four) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3483-unique-3-digit-even-numbers](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -531,6 +534,7 @@ Problems on leetcode solved by me
 | [1952-three-divisors](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1952-three-divisors) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3745-maximize-expression-of-three-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3745-maximize-expression-of-three-elements) |
 ## Prime Factorization
 |  |
