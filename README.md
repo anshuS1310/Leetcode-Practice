@@ -110,6 +110,7 @@ Problems on leetcode solved by me
 | [3637-trionic-array-i](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3637-trionic-array-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3731-find-missing-elements) |
@@ -334,6 +335,7 @@ Problems on leetcode solved by me
 | [0918-maximum-sum-circular-subarray](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1137-n-th-tribonacci-number) |
 | [3665-twisted-mirror-path-count](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3665-twisted-mirror-path-count) |
+| [3693-climbing-stairs-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Memoization
 |  |
