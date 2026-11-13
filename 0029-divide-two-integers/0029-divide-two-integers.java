@@ -1,12 +1,42 @@
 class Solution {
-    public int divide(int A, int B) {
-        if (A == 1 << 31 && B == -1) return (1 << 31) - 1;
-        int a = Math.abs(A), b = Math.abs(B), res = 0, x = 0;
-        while (a - b >= 0) {
-            for (x = 0; a - (b << x << 1) >= 0; x++);
-            res += 1 << x;
-            a -= b << x;
+    public int divide(int dividend, int divisor) {
+
+
+        if (dividend == Integer.MIN_VALUE &&
+            divisor == -1) {
+            return Integer.MAX_VALUE;
         }
-        return (A > 0) == (B > 0) ? res : -res;
+
+
+        boolean negative = (dividend < 0) ^ (divisor < 0);
+
+
+        long a = Math.abs((long) dividend);
+        long b = Math.abs((long) divisor);
+
+        long result = 0;
+
+        while (a >= b) {
+
+            long temp = b;
+            long multiple = 1;
+
+ 
+            while (a >= (temp << 1)) {
+                temp <<= 1;
+                multiple <<= 1;
+            }
+
+
+            a -= temp;
+            result += multiple;
+        }
+
+
+        if (negative) {
+            result = -result;
+        }
+
+        return (int) result;
     }
 }
