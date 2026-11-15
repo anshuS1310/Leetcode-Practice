@@ -1,11 +1,18 @@
 class Solution {
     public int numOfSubarrays(int[] arr) {
         int s=0;
-        long co = 0;
+        int co = 0;
+        long res=0;
         for (int i = 0; i < arr.length; i++) {
-            s+=arr[i];
-            co+=s%2;
-        }     
-        return (int) (co +(co * (arr.length-co)) % 1000000007);
+            if((arr[i] & 1)==0){
+                s++;
+            }else{
+                int p=co;
+                co=s+1;
+                s=p;
+            }
+            res+=co;
+        }    
+        return (int) ( res % 1000000007);
     }
 }
