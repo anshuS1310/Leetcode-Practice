@@ -77,6 +77,7 @@ Problems on leetcode solved by me
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1539-kth-missing-positive-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
@@ -194,6 +195,7 @@ Problems on leetcode solved by me
 | [1137-n-th-tribonacci-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1137-n-th-tribonacci-number) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1492-the-kth-factor-of-n](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1492-the-kth-factor-of-n) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1952-three-divisors](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1952-three-divisors) |
 | [2235-add-two-integers](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2235-add-two-integers) |
@@ -340,6 +342,7 @@ Problems on leetcode solved by me
 | [0877-stone-game](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1137-n-th-tribonacci-number) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3665-twisted-mirror-path-count](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -566,6 +569,7 @@ Problems on leetcode solved by me
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0410-split-array-largest-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0410-split-array-largest-sum) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3364-minimum-positive-sum-subarray](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3903-smallest-stable-index-i](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3903-smallest-stable-index-i) |
