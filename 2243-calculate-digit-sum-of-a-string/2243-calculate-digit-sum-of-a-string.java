@@ -1,17 +1,23 @@
 class Solution {
     public String digitSum(String s, int k) {
-        if(s.length()<=k){
+        int t=s.length();
+        if(t<=k){
             return s;
         }
-        StringBuilder sb=new StringBuilder();
-        int ds=0;
-        for(int i=0;i<s.length();i++){
-            ds+=s.charAt(i)-'0';
-            if((i+1)%k==0 || (i+1)==s.length()){
-                sb.append(ds);
-                ds=0;
-            }
+        StringBuilder ans=new StringBuilder();
+
+        int sum=0;
+      
+        for(int i=0;i<t;i++){
+            sum+=s.charAt(i)-'0';
+            if((i+1)%k == 0){
+                ans.append(sum);
+                sum=0;     
+            }          
         }
-        return digitSum(sb.toString(),k);
+        if(t%k != 0){
+                ans.append(sum);
+            }
+        return digitSum(String.valueOf(ans),k);
     }
 }
