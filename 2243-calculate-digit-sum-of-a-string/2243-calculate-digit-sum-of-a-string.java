@@ -1,51 +1,35 @@
 class Solution {
     public String digitSum(String s, int k) {
-        String res = s;
-
-        // Keep repeating rounds until the string length is less than or equal to k
-        while (res.length() > k) {
-            List<String> list = new ArrayList<>();
-            String current = "";
-
-            // 1. Divide 'res' into chunks of size k using your char-by-char loop
-            for (int i = 0; i < res.length(); i++) {
-                current += res.charAt(i);
-                if (current.length() == k) {
-                    list.add(current);
-                    current = "";
+        String res=s;
+        while(res.length()>k){
+            List<String> lt=new ArrayList<>();
+            String cs="";
+            for(int i=0;i<res.length();i++){
+                cs+=res.charAt(i);
+                if(cs.length()==k){
+                    lt.add(cs);
+                    cs="";
                 }
             }
-            // Add any leftover characters if length wasn't a multiple of k
-            if (!current.isEmpty()) {
-                list.add(current);
+            if(!cs.isEmpty()){
+                lt.add(cs);
             }
-
-            // 2. Call your helper function to sum each chunk's digits and rebuild 'res'
-            res = sumChunks(list);
+            res=sck(lt);
         }
-
         return res;
     }
-
-    // Helper function that takes the ArrayList of chunks, replaces each with its digit sum,
-    // and concatenates them into the new string
-    private String sumChunks(List<String> list) {
-        String ans = "";
-
-        for (int i = 0; i < list.size(); i++) {
-            String chunk = list.get(i);
-            int digitSum = 0;
-
-            // Sum individual characters instead of Integer.parseInt() so k=100 never overflows
-            for (int j = 0; j < chunk.length(); j++) {
-                digitSum += chunk.charAt(j) - '0';
+    private String sck(List<String> lt){
+        String ans="";
+        for(int i=0;i<lt.size();i++){
+            String cs=lt.get(i);
+            int ds=0;
+            for(int j=0;j<cs.length();j++){
+                ds+=cs.charAt(j)-'0';
             }
-
-            String sumStr = String.valueOf(digitSum);
-            list.set(i, sumStr); // Replace element in the list as you described
-            ans += sumStr;       // Concatenate into the new result string
-        }
-
+            String ss=String.valueOf(ds);
+            lt.set(i,ss);
+            ans+=ss;
+        }    
         return ans;
     }
 }
