@@ -243,6 +243,7 @@ Problems on leetcode solved by me
 | [2243-calculate-digit-sum-of-a-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2409-count-days-spent-together) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2697-lexicographically-smallest-palindrome) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2937-make-three-strings-equal](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2937-make-three-strings-equal) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -274,6 +275,7 @@ Problems on leetcode solved by me
 | [2396-strictly-palindromic-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2396-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2540-minimum-common-value) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2697-lexicographically-smallest-palindrome) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Binary Search
@@ -344,6 +346,7 @@ Problems on leetcode solved by me
 | [0918-maximum-sum-circular-subarray](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1137-n-th-tribonacci-number) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [3665-twisted-mirror-path-count](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
