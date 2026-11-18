@@ -244,6 +244,7 @@ Problems on leetcode solved by me
 | [2409-count-days-spent-together](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2409-count-days-spent-together) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [2937-make-three-strings-equal](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2937-make-three-strings-equal) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3120-count-the-number-of-special-characters-i) |
