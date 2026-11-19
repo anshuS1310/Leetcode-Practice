@@ -92,6 +92,7 @@ Problems on leetcode solved by me
 | [2089-find-target-indices-after-sorting-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2432-the-employee-that-worked-on-the-longest-task](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
