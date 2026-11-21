@@ -92,6 +92,7 @@ Problems on leetcode solved by me
 | [2089-find-target-indices-after-sorting-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2432-the-employee-that-worked-on-the-longest-task](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2432-the-employee-that-worked-on-the-longest-task) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -309,6 +310,7 @@ Problems on leetcode solved by me
 | [1552-magnetic-force-between-two-balls](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1552-magnetic-force-between-two-balls) |
 | [1901-find-a-peak-element-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2540-minimum-common-value](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2540-minimum-common-value) |
@@ -422,6 +424,7 @@ Problems on leetcode solved by me
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -476,6 +479,7 @@ Problems on leetcode solved by me
 | [2089-find-target-indices-after-sorting-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -520,6 +524,7 @@ Problems on leetcode solved by me
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1882-process-tasks-using-servers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Quickselect
 |  |
 | ------- |
