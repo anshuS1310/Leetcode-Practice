@@ -244,6 +244,7 @@ Problems on leetcode solved by me
 | [1796-second-largest-digit-in-a-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1796-second-largest-digit-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2409-count-days-spent-together) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2697-lexicographically-smallest-palindrome) |
