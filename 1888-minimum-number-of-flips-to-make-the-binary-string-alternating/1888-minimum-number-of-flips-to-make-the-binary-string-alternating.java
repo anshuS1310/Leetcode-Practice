@@ -1,30 +1,33 @@
 class Solution {
     public int minFlips(String s) {
-        int n=s.length();
-        int f1=0,f2=0;
-        int res=Integer.MAX_VALUE;
-        for(int i=0;i<2*n;i++){
-            char c1= i%2==0 ? '1' : '0';
-            char c2= i%2==0 ? '0' : '1';
-            if(s.charAt(i%n)==c1){
-                f1++;
-            }else{
-                f2++;
-            }
-            if(i>=n){
-                int l=n-i;
-                char c11= l%2==0 ? '1':'0';
-                char c22= l%2==0 ? '0':'1';
-                if(s.charAt(i%n)==c11){
-                    f1--;
+        if(s.length()%2==0){
+            int f0=0,f1=0;
+            boolean o=true;
+            for(char c:s.toCharArray()){
+                if(c=='0'^o){
+                    f0++;
                 }else{
-                    f2--;
+                    f1++;
                 }
+                o=!o;
             }
-            if (i>=n-1){
-                res=Math.min(res,Math.min(f1,f2));
+            return Math.min(f1,f0);
+        }else{
+            int f0=0,f1=0,g0=1,g1=1;
+            boolean o=true;
+            for(char c:s.toCharArray()){
+                if(c=='0'^o){
+                    g0=Math.min(f0,g0);
+                    g1=Math.min(g1,f1)+1;
+                    f0++;
+                }else{
+                    g0=Math.min(f0,g0)+1;
+                    g1=Math.min(g1,f1);
+                    f1++;
+                }
+                o=!o;
             }
+            return Math.min(Math.min(f1,g1),Math.min(f0,g0));
         }
-        return res;
     }
 }
