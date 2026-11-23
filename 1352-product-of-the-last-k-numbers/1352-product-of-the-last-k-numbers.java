@@ -1,25 +1,30 @@
 class ProductOfNumbers {
-    private List<Integer> res;
-
+    private int l[];
+    private int s;
     public ProductOfNumbers() {
-        this.res=new ArrayList<>();
-        this.res.add(1);
+        l=new int[16];
+        s=1;
+        l[0]=1;
     }
     
     public void add(int num) {
         if(num==0){
-            this.res=new ArrayList<>();
-            this.res.add(1);
+            l[0]=1;
+            s=1;
         }else{
-            this.res.add(this.res.get(this.res.size()-1)*num);
+            if(s==l.length){
+                l=Arrays.copyOf(l,s*2);
+            }
+            l[s]=l[s-1]*num;
+            s++;
         }
     }
+    
     public int getProduct(int k) {
-        int n=this.res.size();
-        if (k>=n){
+        if(k>=s){
             return 0;
         }
-        return this.res.get(n-1)/this.res.get(n-k-1);
+        return l[s-1]/l[s-1-k];
     }
 }
 
