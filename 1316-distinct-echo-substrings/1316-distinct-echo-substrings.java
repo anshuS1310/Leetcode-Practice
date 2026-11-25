@@ -9,7 +9,7 @@ class Solution {
                     c=0;
                 }
                 if(c==i){
-                    h.add(text.substring(j-i+1,j+1));
+                    h.add(text.substring(j-i+1,k));
                     c--;
                 }
             }
