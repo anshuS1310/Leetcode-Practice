@@ -131,6 +131,7 @@ Problems on leetcode solved by me
 | [3875-construct-uniform-parity-array-i](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3903-smallest-stable-index-i](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3903-smallest-stable-index-i) |
+| [3934-smallest-unique-subarray](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -169,6 +170,7 @@ Problems on leetcode solved by me
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3731-find-missing-elements) |
 | [3843-first-element-with-unique-frequency](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3843-first-element-with-unique-frequency) |
+| [3934-smallest-unique-subarray](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -324,6 +326,7 @@ Problems on leetcode solved by me
 | [2540-minimum-common-value](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2540-minimum-common-value) |
 | [2594-minimum-time-to-repair-cars](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2594-minimum-time-to-repair-cars) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
+| [3934-smallest-unique-subarray](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3934-smallest-unique-subarray) |
 ## String Matching
 |  |
 | ------- |
@@ -695,14 +698,17 @@ Problems on leetcode solved by me
 |  |
 | ------- |
 | [1316-distinct-echo-substrings](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1316-distinct-echo-substrings) |
+| [3934-smallest-unique-subarray](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3934-smallest-unique-subarray) |
 ## Suffix Array
 |  |
 | ------- |
 | [1316-distinct-echo-substrings](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1316-distinct-echo-substrings) |
+| [3934-smallest-unique-subarray](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
 | [1316-distinct-echo-substrings](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1316-distinct-echo-substrings) |
+| [3934-smallest-unique-subarray](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3934-smallest-unique-subarray) |
 ## Suffix Automaton
 |  |
 | ------- |
