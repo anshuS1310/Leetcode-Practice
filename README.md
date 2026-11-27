@@ -188,6 +188,7 @@ Problems on leetcode solved by me
 | [0070-climbing-stairs](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0342-power-of-four) |
 | [0396-rotate-function](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0396-rotate-function) |
@@ -399,6 +400,7 @@ Problems on leetcode solved by me
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0877-stone-game) |
 ## Sliding Window
 |  |
@@ -613,6 +615,7 @@ Problems on leetcode solved by me
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2396-strictly-palindromic-number) |
 ## Geometry
 |  |
@@ -719,4 +722,16 @@ Problems on leetcode solved by me
 |  |
 | ------- |
 | [1316-distinct-echo-substrings](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1316-distinct-echo-substrings) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/anshuS1310/Leetcode-Practice/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
