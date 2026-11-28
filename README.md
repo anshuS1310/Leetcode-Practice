@@ -134,6 +134,7 @@ Problems on leetcode solved by me
 | [3934-smallest-unique-subarray](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -454,6 +455,7 @@ Problems on leetcode solved by me
 | [3745-maximize-expression-of-three-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3745-maximize-expression-of-three-elements) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Queue
 |  |
 | ------- |
@@ -510,6 +512,7 @@ Problems on leetcode solved by me
 | [3727-maximum-alternating-sum-of-squares](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3731-find-missing-elements) |
 | [3745-maximize-expression-of-three-elements](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3745-maximize-expression-of-three-elements) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -547,6 +550,7 @@ Problems on leetcode solved by me
 | [1882-process-tasks-using-servers](https://github.com/anshuS1310/Leetcode-Practice/tree/master/1882-process-tasks-using-servers) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anshuS1310/Leetcode-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/anshuS1310/Leetcode-Practice/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Quickselect
 |  |
 | ------- |
